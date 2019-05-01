@@ -38,9 +38,7 @@ public class Program {
 					}
 
 				}
-				else {
-					System.out.println("Não exite esse numero na Matriz");
-				}
+
 			}
 		}
 
